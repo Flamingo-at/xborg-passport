@@ -33,7 +33,7 @@ python xborg_passport.py
 + ```Delay(sec)``` - delay between referral registrations in seconds
 + ```Threads``` - number of simultaneous registrations
 
-**Successfully registered referrals are saved in** ```successfully.txt```
+**Successfully registered referrals are saved in** ```successfully.txt``` **in format** ```{email}:{address}:{private_key}```
 
 **Error registered referrals are saved in** ```error.txt```
 
